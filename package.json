@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "dotenv": "^7.0.0",
+    "minimist": "^1.2.0",
     "socket.io": "^2.2.0",
     "twit": "^2.2.11"
   }
