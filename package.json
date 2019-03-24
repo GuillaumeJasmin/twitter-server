@@ -1,0 +1,14 @@
+{
+  "name": "twitter-server",
+  "version": "1.0.0",
+  "author": "Guillaume Jasmin",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "socket.io": "^2.2.0",
+    "twit": "^2.2.11"
+  }
+}
